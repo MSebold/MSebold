@@ -1,7 +1,7 @@
 <h1 align="center">I'm Matheus Sebold 👋</h1>
 
 <p align="center">
-  🚀 Computer Scientist in training • 🔐 🤖  
+  🚀 Computer Scientist in training 🤖  
 </p>
 
 ## 👨‍💻 About Me
