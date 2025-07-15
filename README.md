@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matheus Sebold 👋</h1>
+<h1 align="center">I'm Matheus Sebold</h1>
 
 <p align="center">
   🚀 Computer Scientist in training • 🔐 🤖  
@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Science student at UFSC with a strong interest in solving high-complexity problems through code.  
-🔍 Enthusiast of Machine Learning, Data Analisys, Statistical Analisys and its apliccations.  
-📈 Focused on building skills to make the world a better place through software development.
+- 🎓 I'm a Computer Science student at UFSC with a strong interest in solving high-complexity problems through code.  
+- 🔍 Enthusiast of Machine Learning, Data Analisys, Statistical Analisys and its apliccations.  
+- 📈 Focused on building skills to make the world a better place through software development.
 
 ## 🧠 Tech Stack & Interests
 
